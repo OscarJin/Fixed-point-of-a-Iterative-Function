@@ -1,0 +1,5 @@
+﻿  f15.cpp
+c:\users\pc\desktop\f15\f15\f15.cpp(116): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\pc\desktop\f15\f15\f15.cpp(117): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\pc\desktop\f15\f15\f15.cpp(93): warning C4715: 'transy': not all control paths return a value
+  f15.vcxproj -> C:\Users\pc\Desktop\f15\Debug\f15.exe

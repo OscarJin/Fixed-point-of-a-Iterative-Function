@@ -6,4 +6,12 @@ Problem:
 
 ![Image text](https://github.com/OscarJin/Fixed-point-of-a-Iterative-Function/blob/master/Problem.PNG)
 
-Solved by C++ programs based on the Visual Studio 2017 environment.
+Author: Jin Jiayi, Zhang Jiache, Cai Qingyuan and Guo Junyu
+
+Algorithms designed by Jin and Guo
+
+Programmed by Jin and Cai
+
+Debugged by Zhang
+
+Special Thanks to Mr. Jiang Wei, our math teacher, who provides us with the basic thoughts

@@ -6,7 +6,7 @@ You can directly download the report in the Releases.
 
 Problem:
 
-![Image text](https://github.com/OscarJin/Fixed-point-of-a-Iterative-Function/blob/master/Problem.PNG)
+![Image text](./Problem.PNG)
 
 Author: Jin Jiayi, Zhang Jiache, Cai Qingyuan and Guo Junyu
 
